@@ -1,25 +1,19 @@
 Viptocoin integration/staging tree
 ================================
 
-http://www.viptocoin.org
+http://www.github.com/jxmiecole/viptocoin
 
 Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2011-2014 Viptocoin Developers
+Copyright (c) 2011-2014 Litecoin Developers
+Copyright (c) 2021 jxmiecole
 
 What is Viptocoin?
 ----------------
-
-Viptocoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
- - 2.5 minute block targets
- - subsidy halves in 840k blocks (~4 years)
- - ~84 million total coins
-
-The rest is the same as Bitcoin.
- - 50 coins per block
- - 2016 blocks to retarget difficulty
-
-For more information, as well as an immediately useable, binary version of
-the Viptocoin client sofware, see http://www.viptocoin.org.
+ - 1 minute block targets
+ - subsidy halves in 500k blocks (~4 years)
+ - ~786 million total coins
+ - 786 coins per block
+ - 1440 blocks to retarget difficulty
 
 License
 -------
